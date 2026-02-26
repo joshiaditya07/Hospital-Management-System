@@ -1,0 +1,4 @@
+Firstname, Surname, Doctor, Age, Mobile, Postcode, Address, Symptoms
+Sara,Smith,None,20,07012345678,B1 234,Birmingham,ChestPain
+Mike,Jones,None,37,07555551234,L2 2AB,Liverpool,Fever
+Daivd,Smith,None,15,07123456789,C1 ABC,Manchester,Cough
