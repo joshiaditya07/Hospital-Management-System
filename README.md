@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A Python-based Hospital Management System for managing doctors, patients, and appointments with both GUI and command-line interfaces.
+A Python-based Hospital Management System for managing doctors, patients, and appointments with both GUI(tkinter) and command-line interfaces.
 
 ## Features
 
